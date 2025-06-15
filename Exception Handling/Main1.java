@@ -3,7 +3,7 @@
 //in below ex if we remove all return statemrns then writing finally and not writing it will not make any difference
 // we can write code for cleaning or clering of resources of systemm
 
-//basically finally block is used when we have to do something that must be executed beforetermination of code,
+//basically finally block is used when we have to do something that must be executed before termination of code,
 
 //yes, we can not write try without catch, but we can write try with finally without wroting catch
 
