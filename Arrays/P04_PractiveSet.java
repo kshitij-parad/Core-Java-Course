@@ -40,15 +40,36 @@ public class P04_PractiveSet {
 
 
         //Que 2:
-        int key = 5;
-        int[] arr = {101,393,3838,3,5,6};
+        // int key = 5;
+        // int[] arr = {101,393,3838,3,5,6};
 
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]==key){
-                System.out.printf("Element is present in array at %dth Index.",i);
-            }
+        // for(int i=0;i<arr.length;i++){
+        //     if(arr[i]==key){
+        //         System.out.printf("Element is present in array at %dth Index.",i);
+        //     }
 
-        }
+        // }
 
+
+        //Que 3: ---------------UNSOLVED-------------------
+        
+        // System.out.print("How many Numbers: ");
+        // int howMany = sc.nextInt();
+
+        // int[] numbers = new  int[howMany];
+
+        // for(int i= 0; i<howMany;i++){
+        //     numbers[i] = sc.nextInt();
+        //     if(numbers[i]< 0){
+        //         System.err.printf("Invalid input: %d  is negative! Skipping...",numbers[i]);
+        //     }
+        // }
+
+        // int i =0;
+        // while(i < numbers.length){
+        //     if(numbers[i] %2 == 0){
+
+        //     }
+        // }
     }
 }
